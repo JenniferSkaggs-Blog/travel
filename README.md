@@ -1,2 +1,2 @@
 # travel
-Jennifer Skaggs - Travel Blog project - Web Developer - Applications and Buckets
+Jennifer Skaggs - Travel Blog project - Static page test - Web Developer
